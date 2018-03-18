@@ -1,2 +1,3 @@
 # hello-world
-asa de inceput
+asa de inceput, am mai adaugat si eu ceva
+xccxcxc
